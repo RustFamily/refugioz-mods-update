@@ -1,4 +1,12 @@
 {
   "Version": "1.0",
-  "Mods": []
+  "Mods": [
+    {
+      "FileName": "Mods/@AdminBook.zip",
+      "Size": 2127126,
+      "MD5": "89371AFDD7A1E666BFAAF458CEA04B49",
+      "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@AdminBook.zip"
+    }
+
+  ]
 }
