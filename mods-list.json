@@ -1,12 +1,28 @@
 {
   "Version": "1.0",
+  "ServerInfo": {
+    "Server1": {
+      "IP": "127.0.0.1",
+      "Port": "2302",
+      "Name": "LOCAL"
+    },
+    "Server2": {
+      "IP": "178.132.198.193",
+      "Port": "2302",
+      "Name": "RefúgioZ"
+    }
+  },
+  "ExistingMods": [
+    "@AdminBook",
+    "@CF",
+    "@DabsFramework"
+  ],
   "Mods": [
     {
-      "FileName": "Mods/@AdminBook.zip",
+      "FileName": "Mods/@NovoMod.zip",
       "Size": 2127126,
       "MD5": "89371AFDD7A1E666BFAAF458CEA04B49",
-      "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@AdminBook.zip"
+      "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@NovoMod.zip"
     }
-
   ]
 }
