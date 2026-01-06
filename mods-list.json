@@ -13,8 +13,6 @@
     }
   },
   "ExistingMods": [
-    "@AdminBook",
-    "AdminBook",
     "AdvancedWeaponScopes",
     "Backpack",
     "BaseBuildingPlus",
