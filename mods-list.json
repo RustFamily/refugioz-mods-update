@@ -14,6 +14,7 @@
   },
   "ExistingMods": [
     "@AdvancedWeaponScopes",
+    "@@AdminBook",
     "@Backpack",
     "@BaseBuildingPlus",
     "@BBPItemPack",
