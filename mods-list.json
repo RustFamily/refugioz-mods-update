@@ -49,10 +49,22 @@
   ],
   "Mods": [
     {
-      "FileName": "Mods/@NovoMod.zip",
-      "Size": 2127126,
-      "MD5": "89371AFDD7A1E666BFAAF458CEA04B49",
-      "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@NovoMod.zip"
+      "FileName": "Mods/@Breachingcharge.zip",
+      "Size": 1939,
+      "MD5": "131650116c92d20dd7441a4b7fb5ebd3",
+      "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@Breachingcharge.zip"
+    }
+    {
+      "FileName": "Mods/@RepairMyCar.zip",
+      "Size": 1892,
+      "MD5": "8b8e2972512b81f67243f1157e0ac59c",
+      "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@RepairMyCar.zip"
+    }
+    {
+      "FileName": "Mods/@Stryker_Admin_Clothing.zip",
+      "Size": 4096,
+      "MD5": "fbfa4b4e0492e5f5f02ae7861ead2489",
+      "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@Stryker_Admin_Clothing.zip"
     }
   ]
 }
