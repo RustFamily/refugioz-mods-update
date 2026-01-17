@@ -7,7 +7,7 @@
       "Name": "LOCAL"
     },
     "Server2": {
-      "IP": "178.132.198.193",
+      "IP": "37.148.133.226",
       "Port": "2302",
       "Name": "RefúgioZ"
     }
@@ -41,6 +41,9 @@
     "@FT-Promocodes-FREE",
     "@MMG-Base-Storage",
     "@MZ-KOTH",
+    "@RepairMyCar",
+    "@Breachingcharge",
+    "@Stryker_Admin_Clothing",
     "@VPPAdminTools"
   ],
 "Mods": [
