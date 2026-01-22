@@ -42,7 +42,6 @@
     "@MZ-KOTH",
     "@RepairMyCar",
     "@Breachingcharge",
-    "@DayZ-Expansion-BaseBuilding",
     "@Stryker_Admin_Clothing",
     "@VPPAdminTools"
   ],
@@ -58,12 +57,6 @@
     "Size": 21129232,
     "MD5": "12db432216cbdc91e0767fccde472253",
     "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@RepairMyCar.zip"
-  },
-  {
-    "FileName": "Mods/@DayZ-Expansion-BaseBuilding.zip",
-    "Size": 227801143,
-    "MD5": "34bcabb1f7ef7150f859317c49268e66",
-    "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@DayZ-Expansion-BaseBuilding.zip"
   },
   {
     "FileName": "Mods/@Stryker_Admin_Clothing.zip",
