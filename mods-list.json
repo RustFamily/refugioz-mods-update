@@ -12,38 +12,30 @@
       "Name": "RefúgioZ"
     }
   },
-  "ExistingMods": [
-    "@Backpack",
-    "@BaseBuildingPlus",
-    "@BBPItemPack",
-    "@BuildStackX3",
-    "@CarPack",
-    "@CF",
-    "@CodeLock",
-    "@DabsFramework",
-    "@DayZ-Expansion-Chat",
-    "@DayZ-Expansion-Core",
-    "@DayZ-Expansion-Groups",
-    "@FT-Promocodes-FREE",
-    "@MMG-Base-Storage",
-    "@MZ-KOTH",
-    "@RepairMyCar",
-    "@Stryker_Admin_Clothing",
-    "@VPPAdminTools"
-  ],
+"ExistingMods": [
+  "@CF",
+  "@DabsFramework",
+  "@DayZ-Expansion-Core",
+  "@DayZ-Expansion-Chat",
+  "@DayZ-Expansion-Name-Tags",
+  "@DayZ-Expansion-Navigation",
+  "@DayZ-Expansion-Spawn-Selection",
+  "@DayZ-Expansion-Groups",
+  "@BuildStackX3",
+  "@BaseBuildingPlus",
+  "@BBPItemPack",
+  "@CodeLock",
+  "@MMG-Base-Storage",
+  "@C4RaidOnly",
+  "@Backpack",
+  "@CarPack",
+  "@RepairMyCar",
+  "@FT-Promocodes-FREE",
+  "@MZ-KOTH",
+  "@Stryker_Admin_Clothing",
+  "@VPPAdminTools"
+],
 "Mods": [
-  {
-    "FileName": "Mods/@Breachingcharge.zip",
-    "Size": 12645429,
-    "MD5": "81f2dba2cb5ee39c00ae7bd3a46fe740",
-    "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@Breachingcharge.zip"
-  },
-  {
-    "FileName": "Mods/@RepairMyCar.zip",
-    "Size": 21129232,
-    "MD5": "12db432216cbdc91e0767fccde472253",
-    "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@RepairMyCar.zip"
-  },
   {
     "FileName": "Mods/@Stryker_Admin_Clothing.zip",
     "Size": 8790170,
