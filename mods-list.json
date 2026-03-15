@@ -33,11 +33,12 @@
   "@FT-Promocodes-FREE",
   "@MZ-KOTH",
   "@Stryker_Admin_Clothing",
+  "@DayZ-Expansion-Book",
   "@VPPAdminTools"
 ],
 "Mods": [
   {
-    "FileName": "Mods/@Stryker_Admin_Clothing.zip",
+    "FileName": "Mods/@DayZ-Expansion-Book.zip",
     "Size": 37463513,
     "MD5": "3F88850CD547CF39161C31ED38CE37EC",
     "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@DayZ-Expansion-Book.zip"
