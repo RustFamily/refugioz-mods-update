@@ -42,6 +42,12 @@
     "Size": 37463513,
     "MD5": "3F88850CD547CF39161C31ED38CE37EC",
     "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@DayZ-Expansion-Book.zip"
+  },
+  {
+    "FileName": "Mods/@DayZ-Expansion-Navigation.zip",
+    "Size": 1401355,
+    "MD5": "9476F0DA47A94F8454159F327A02D0B1",
+    "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@DayZ-Expansion-Navigation.zip"
   }
 ]
 }
