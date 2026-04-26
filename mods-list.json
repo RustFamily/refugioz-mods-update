@@ -52,6 +52,18 @@
     "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@DayZ-Expansion-Navigation.zip"
   },
   {
+    "FileName": "Mods/@Basic.Territories.zip",
+    "Size": 64766,
+    "MD5": "3B1B5A969C9A9475D13AAA4D8782AA3E",
+    "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@Basic.Territories.zip"
+  },
+  {
+    "FileName": "Mods/@QuickMoveItemsByCategory.zip",
+    "Size": 837883,
+    "MD5": "EB7E484955BF2CE7C03DAE975507FA92",
+    "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@QuickMoveItemsByCategory.zip"
+  },
+  {
     "FileName": "Mods/@DayZ-Expansion.zip",
     "Size": 109561056,
     "MD5": "DE3A45A1B28D5388C1668FC676B8BF09",
