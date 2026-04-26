@@ -36,7 +36,6 @@
   "@DayZ-Expansion-Book",
   "@DayZ-Expansion",
   "@VPPAdminTools",
-  "@QuickMoveItemsByCategory",
   "@BasicTerritories"
 ],
 "Mods": [
@@ -57,12 +56,6 @@
     "Size": 64766,
     "MD5": "722CA52023A1EFDB2C3B3EDBDA5D472C",
     "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@BasicTerritories.zip"
-  },
-  {
-    "FileName": "Mods/@QuickMoveItemsByCategory.zip",
-    "Size": 837883,
-    "MD5": "EB7E484955BF2CE7C03DAE975507FA92",
-    "DownloadUrl": "https://github.com/RustFamily/refugioz-mods-update/releases/download/v1.0/@QuickMoveItemsByCategory.zip"
   },
   {
     "FileName": "Mods/@VPPAdminTools.zip",
