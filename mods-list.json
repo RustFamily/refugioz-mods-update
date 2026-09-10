@@ -45,6 +45,7 @@
     "@FOVRevert",
     "@FOVRevert2",
     "@UnknownGhillieMod",
+    "@UnknownGhillieMod",
     "@IRP-Land-Rover-Defender-110"
   ],
   "Mods": [
@@ -187,6 +188,13 @@
       "MD5": "F05E906A36210AD27C58D1745DA2105F",
       "SHA256": "76E5C47D52ED7581EAE78C01E9FAABD67F83E4DC15FCF0BEC064AB3E3E115C45",
       "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@UnknownGhillieMod.zip"
+    },
+    {
+      "FileName": "Mods/@MuchCarKey.zip",
+      "Size": 8106187,
+      "MD5": "FA35E6E8742B2D5C42E447AB04E60C96",
+      "SHA256": "EC59F46B40433E034307B937802889B83A7DEFE47D827E52A5CC984DAC40C855",
+      "DownloadUrl": "https://github.com/RustFamily/refugioz/releases/download/v1.0/@MuchCarKey.zip"
     },
     {
       "FileName": "Mods/@DayZ-Expansion.zip",
